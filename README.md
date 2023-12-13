@@ -1,7 +1,7 @@
 
 
 # Fragment-Tab
-Nama &nbsp; &nbsp;: Danang Nurcahyo br>
+Nama &nbsp; &nbsp;: Danang Nurcahyo <br>
 NIM&nbsp; &nbsp; &nbsp; : 312210004 <br>
 Kelas&ensp; &nbsp; : TI.22.A.1<br>
 Dosen &nbsp; : Donny Maulana, S.Kom., M.M.S.I.<br><br>
